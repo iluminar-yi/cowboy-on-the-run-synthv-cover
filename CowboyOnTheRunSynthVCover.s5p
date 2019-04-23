@@ -520,36 +520,43 @@
         },
         {
           "onset": 56095200000,
-          "duration": 317520000,
+          "duration": 176400000,
           "lyric": "yin",
           "comment": "因",
           "pitch": 60
         },
         {
-          "onset": 56448000000,
-          "duration": 317520000,
+          "onset": 56271600000,
+          "duration": 176400000,
           "lyric": "wei",
           "comment": "為",
-          "pitch": 62
+          "pitch": 60
         },
         {
-          "onset": 56800800000,
+          "onset": 56448000000,
           "duration": 317520000,
           "lyric": "pi",
           "comment": "啤",
           "pitch": 62
         },
         {
-          "onset": 57153600000,
-          "duration": 158759999,
+          "onset": 56800800000,
+          "duration": 352800000,
           "lyric": "jiu",
           "comment": "酒",
           "pitch": 62
         },
         {
-          "onset": 57330000000,
+          "onset": 57153600000,
           "duration": 158759999,
           "lyric": "shang",
+          "comment": "伤",
+          "pitch": 62
+        },
+        {
+          "onset": 57330000000,
+          "duration": 158759999,
+          "lyric": "ang",
           "comment": "伤",
           "pitch": 60
         },
@@ -661,7 +668,7 @@
         {
           "onset": 64562400000,
           "duration": 317520000,
-          "lyric": "Chi",
+          "lyric": "chi",
           "comment": "赤",
           "pitch": 55
         },
@@ -1017,28 +1024,28 @@
         },
         {
           "onset": 79732800000,
-          "duration": 158760000,
+          "duration": 352800000,
           "lyric": "le",
           "comment": "了",
           "pitch": 62
         },
         {
-          "onset": 79909200000,
-          "duration": 158760000,
+          "onset": 80085600000,
+          "duration": 88200000,
           "lyric": "ying",
           "comment": "英",
           "pitch": 62
         },
         {
-          "onset": 80085600000,
-          "duration": 158760000,
+          "onset": 80173800000,
+          "duration": 88200000,
           "lyric": "xiong",
           "comment": "雄",
           "pitch": 62
         },
         {
           "onset": 80262000000,
-          "duration": 158760000,
+          "duration": 176400000,
           "lyric": "ye",
           "comment": "也",
           "pitch": 63
@@ -1331,15 +1338,15 @@
           "pitch": 60
         },
         {
-          "onset": 115012800000,
+          "onset": 114836400000,
           "duration": 352800000,
           "lyric": "xim",
           "comment": "心",
           "pitch": 60
         },
         {
-          "onset": 115365600000,
-          "duration": 352800000,
+          "onset": 115189200000,
+          "duration": 529200000,
           "lyric": "ai",
           "comment": "愛",
           "pitch": 62
@@ -2452,28 +2459,28 @@
         },
         {
           "onset": 181339200000,
-          "duration": 158760000,
+          "duration": 352800000,
           "lyric": "le",
           "comment": "了",
           "pitch": 62
         },
         {
-          "onset": 181515600000,
-          "duration": 158760000,
+          "onset": 181692000000,
+          "duration": 88200000,
           "lyric": "ying",
           "comment": "英",
           "pitch": 62
         },
         {
-          "onset": 181692000000,
-          "duration": 158760000,
+          "onset": 181780200000,
+          "duration": 88200000,
           "lyric": "xiong",
           "comment": "雄",
           "pitch": 62
         },
         {
           "onset": 181868400000,
-          "duration": 158760000,
+          "duration": 176400000,
           "lyric": "ye",
           "comment": "也",
           "pitch": 63
@@ -3061,28 +3068,28 @@
         },
         {
           "onset": 226497600000,
-          "duration": 158760000,
+          "duration": 352800000,
           "lyric": "le",
           "comment": "了",
           "pitch": 62
         },
         {
-          "onset": 226674000000,
-          "duration": 158760000,
+          "onset": 226850400000,
+          "duration": 88200000,
           "lyric": "ying",
           "comment": "英",
           "pitch": 62
         },
         {
-          "onset": 226850400000,
-          "duration": 158760000,
+          "onset": 226938600000,
+          "duration": 88200000,
           "lyric": "xiong",
           "comment": "雄",
           "pitch": 62
         },
         {
           "onset": 227026800000,
-          "duration": 158760000,
+          "duration": 176400000,
           "lyric": "ye",
           "comment": "也",
           "pitch": 63
@@ -3419,7 +3426,7 @@
   ],
   "instrumental": {
     "filename": "external\\wo99.com_1194929885971346.wav",
-    "offset": 0.992
+    "offset": 0.986
   },
   "mixer": {
     "gainInstrumentalDecibel": -4.8,
