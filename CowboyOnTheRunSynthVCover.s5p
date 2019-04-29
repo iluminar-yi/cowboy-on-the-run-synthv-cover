@@ -11,15 +11,11 @@
     {
       "position": 0,
       "beatPerMinute": 124
-    },
-    {
-      "position": 70560000000,
-      "beatPerMinute": 124
     }
   ],
   "tracks": [
     {
-      "name": "AiKO",
+      "name": "Chiyu",
       "dbName": "五维介质·赤羽",
       "color": "ff1599e8",
       "displayOrder": 0,
@@ -3411,19 +3407,27 @@
         ],
         "tension": [
           0,
-          0
+          -0.15,
+          5512500,
+          -0.15
         ],
         "breathiness": [
           0,
-          0
+          -0.5,
+          5512500,
+          -0.5
         ],
         "voicing": [
           0,
-          0
+          -0.2,
+          5512500,
+          -0.2
         ],
         "gender": [
           0,
-          0
+          -0.1,
+          5512500,
+          -0.1
         ]
       }
     }
