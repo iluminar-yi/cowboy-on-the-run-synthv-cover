@@ -1618,7 +1618,7 @@
         {
           "onset": 118893600000,
           "duration": 705600000,
-          "lyric": "oui",
+          "lyric": ".w i",
           "comment": "位",
           "pitch": 60,
           "sublib": "B3"
@@ -1658,7 +1658,7 @@
         {
           "onset": 122421600000,
           "duration": 352800000,
-          "lyric": "bo",
+          "lyric": "mei",
           "comment": "沒",
           "pitch": 60,
           "sublib": "B3"
@@ -1666,7 +1666,7 @@
         {
           "onset": 122774400000,
           "duration": 705600000,
-          "lyric": "kuan",
+          "lyric": "kuai",
           "comment": "看",
           "pitch": 62,
           "sublib": "B3"
@@ -1674,15 +1674,15 @@
         {
           "onset": 123480000000,
           "duration": 352800000,
-          "lyric": "diao",
+          "lyric": "dao",
           "comment": "到",
           "pitch": 60,
           "sublib": "B3"
         },
         {
           "onset": 123832800000,
-          "duration": 1411200000,
-          "lyric": "nei",
+          "duration": 1058400000,
+          "lyric": "ni",
           "comment": "妳",
           "pitch": 60,
           "sublib": "B3"
